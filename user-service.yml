@@ -5,4 +5,4 @@ datasource:
   driver-class-name: org.h2.Driver
   url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
   username: sa
-  password: '{cipher}46d6a3c848d44c8e7ee4472b67fec2ed8e31c306d14303f7abc5e26dd0060217'
+  password: '{cipher}AYBMndqL+1yPSxPWqogq8sZoS0s7lU+GAXzM0PfJCa87zM0WJCPqySLpwAHZad5Xhu9MYpHDcJfnnhYNl4rfXe9WTB7Pn0O9bAtnvJaPhyxOFgRsJFwu2PHKid18PE2b7Bs/PYn9WPzEAApX7w0CrJuShRpPnjGwMbKuxKJfFHGgC2KILcjeDpjHaJ6lw34nwawdHDSxhJLN0YtNJcqk9CEcSgAM03SGOT3B+UfaBzcWX2lvPfE1wUzWZBcWlRUxJ3shIX9+4Mf5+ayK4+ot4fVneTG+2A6YCzSkim9nmj0E+jDfy1JuABypyC5l9SNr6TUdw7oE1j3Id6DzMUuW3pC1JSiEWu+fVOg5s8MU4NsueZ5Vg2ztwITAwIluisrDRBebTUA+I+7AcZN2YPzbfVzE8Pq05/JAB1QOETErDWpUTlGz2ChdV2OwqUoAehLsqn536xc/47MAkcQGCNLLSWZUJGtP9JdFyVNVDiyzL71x8RFamB927w41pEQsuB3cPmV7/LYw9gOC6BSI1P6rEejZoS9APjwlsLeT5Smf+HWUYw=='
